@@ -148,13 +148,13 @@
    x-match=any
    item1 = mobile
    item2=mob->bind
-   ---
+  
    Bindings->add bindings-> to: TVV3;
    Arguments: 
    x-match=any
    item1 = tv
    item2=television->bind  
-   ---
+  
    Bindings->add bindings-> to: ACC3;
    Arguments: 
    x-match=all
